@@ -1,4 +1,5 @@
 <div id="header" align="center">
+<img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="175px" height="75px" />
  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" />
  <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/christopher-morejon-067ab7254/">
@@ -6,7 +7,6 @@
  </a>
  </div>
  <img src="https://komarev.com/ghpvc/?username=Kriss1205&style=flat-square&color=blue" alt=""/>
- <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="175px" height="75px" />
  <h1>
   My name is Christopher!
   <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="30px"/>
