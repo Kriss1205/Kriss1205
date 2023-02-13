@@ -48,4 +48,5 @@
 ---
 
 <img align="left" alt="Kriss1205's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&hide_border=true&theme=midnight-purple" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact)](https://github.com/kriss1205/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
