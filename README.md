@@ -7,16 +7,15 @@
  </div>
  <img src="https://komarev.com/ghpvc/?username=Lupey1103&style=flat-square&color=blue" alt=""/>
  <h1>
-  Welcome
+  Welcome my name is Christopher!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  </div>
- <div align="center">
+ <!-- <div align="center">
   <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47be8dg8tydr28a0d8rar59sntb3hafyiuw554tvfa&rid=giphy.gif&ct=g" width="600" height="300" />
- </div>
+ </div> -->
 
 ----
-
 
 # Hi there, my name is Christopher
 
