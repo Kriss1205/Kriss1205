@@ -6,8 +6,9 @@
  </a>
  </div>
  <img src="https://komarev.com/ghpvc/?username=Kriss1205&style=flat-square&color=blue" alt=""/>
+ <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="175px" height="75px" />
  <h1>
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="175px" height="75px" /> my name is Christopher!
+  My name is Christopher!
   <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="30px"/>
 </h1>
  </div>
@@ -48,8 +49,5 @@
 
 ---
 
-
 <img align="left" alt="Kriss1205's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&hide_border=true&theme=midnight-purple" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
