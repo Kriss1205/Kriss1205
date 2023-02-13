@@ -1,6 +1,7 @@
-<div id="header" align="center">
+
 <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" />
 ---
+<div id="header" align="center">
  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" />
  <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/christopher-morejon-067ab7254/">
