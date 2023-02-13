@@ -16,8 +16,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/christopher-morejon#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/christopher-morejon#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/christopher-morejon-067ab7254#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/christopher-morejon-067ab7254#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools I've been learning:
