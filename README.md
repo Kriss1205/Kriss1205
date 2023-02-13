@@ -1,5 +1,6 @@
-
-<img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="700" height="150" />
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="700" height="200" />
+</div>
 
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" />
@@ -7,7 +8,7 @@
  <a href="https://www.linkedin.com/in/christopher-morejon-067ab7254/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
  </a>
- </div>
+ 
  <img src="https://komarev.com/ghpvc/?username=Kriss1205&style=flat-square&color=blue" alt=""/>
  <h1>
   Welcome I'm Christopher (Kriss)
