@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="600" height="300" />
  </div>
 
-----
+---
 
 ### About me:
 
@@ -23,7 +23,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Get a job as a developer that will help me increase my knowledge and experiance in programing.
 - ⚡ Fun fact: I love to work on my car🔧, play video games🕹️, and play the saxaphone🎷
-<!-- 
+<!--
+
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/christopher-morejon-067ab7254#gh-light-mode-only)
@@ -47,7 +48,8 @@
 
 ---
 
+<!--
 <img align="left" alt="Kriss1205's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&hide_border=true&theme=midnight-purple" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
----
+ -->
