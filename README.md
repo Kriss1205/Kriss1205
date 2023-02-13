@@ -8,18 +8,18 @@
  <img src="https://komarev.com/ghpvc/?username=Lupey1103&style=flat-square&color=blue" alt=""/>
  <h1>
   Welcome my name is Christopher!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="30px"/>
 </h1>
  </div>
- <!-- <div align="center">
-  <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47be8dg8tydr28a0d8rar59sntb3hafyiuw554tvfa&rid=giphy.gif&ct=g" width="600" height="300" />
- </div> -->
+ <div align="center">
+  <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="600" height="300" />
+ </div>
 
 ----
 
-# Hi there, my name is Christopher
+## I'm a Husband, Father, and a new Developer!!
 
-## I'm a Husband, Father, and new Developer!!
+### About me:
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
