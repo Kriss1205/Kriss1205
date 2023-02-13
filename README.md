@@ -12,6 +12,9 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/christopher-morejon-067ab7254#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/christopher-morejon-067ab7254#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/vercel-light.svg)](https://vercel.com/kriss1205#gh-light-mode-only)
+[![website](./img/vercel-dark.svg)](https://vercel.com/kriss1205#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Languages and Tools I've been learning:
 
@@ -28,4 +31,3 @@
 ---
 
 <img align="left" alt="Kriss1205's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&hide_border=true" />
-
