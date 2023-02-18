@@ -42,8 +42,11 @@
 
 ### My Stats <img src="https://media2.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif?cid=ecf05e47v40kai09wiyujmzjk2ipqoz41kn2eax75q8cod4p&rid=giphy.gif&ct=s" width="30"> :
 
-<img align="center" style="max-width: 50%" alt="Kriss1205's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&hide_border=true&theme=midnight-purple" />
+<!-- <img align="center" alt="Kriss1205's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&hide_border=true&theme=midnight-purple" /> -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple)](https://github.com/Kriss1205/github-readme-stats) -->
+<!-- 
+<img align="center" alt="Kriss1205's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple" /> -->
 
-<img align="center" style="max-width: 50%" alt="Kriss1205's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple" />
+| <a href="https://github.com/Kriss1205/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Kriss1205/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss1205&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
+| ------------- | ------------- |
