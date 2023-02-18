@@ -6,9 +6,9 @@
  </a>
  </div>
  <img src="https://komarev.com/ghpvc/?username=Kriss1205&style=flat-square&color=blue" alt=""/>
- <h1>
+ 
   <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Welcome, my name is Kriss!" src="./assets/gh-readme-header.png" /></a></p>
-</h1>
+
  </div>
  <div align="center">
   <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="600" height="300" />
