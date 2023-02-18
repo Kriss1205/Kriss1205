@@ -19,10 +19,11 @@
 
 ## About me:
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 Goals: Get a job as a developer that will help me increase my knowledge and experiance in programing.
-- ⚡ Fun fact: I love to work on my car🔧, play video games🕹️, and play the saxaphone🎷
+Born in Broward County, FL. Grew up all over South Florida mostly in Miami.
+
+Currently studying to become a Full-Stack Web Developer with 4Geeks Academy. Expecting to graduate by Feb. 24th.
+
+Aside from coding, I love spening time with my wife and son with our small group of friends, working on my car, playing video games and building electronics like mechanical keyboards and retro hand held video game devices.
 
 ---
 
