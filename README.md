@@ -1,13 +1,10 @@
-<!-- <div id="header" align="center">
-<img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="700" height="200" />
-</div> -->
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" />
  <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/christopher-morejon-067ab7254/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
  </a>
- 
+ </div>
  <img src="https://komarev.com/ghpvc/?username=Kriss1205&style=flat-square&color=blue" alt=""/>
  <h1>
   Welcome I'm "Kriss"
@@ -26,16 +23,8 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Get a job as a developer that will help me increase my knowledge and experiance in programing.
 - ⚡ Fun fact: I love to work on my car🔧, play video games🕹️, and play the saxaphone🎷
-<!--
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/christopher-morejon-067ab7254#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/christopher-morejon-067ab7254#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/vercel-light.svg)](https://vercel.com/kriss1205#gh-light-mode-only)
-[![website](./img/vercel-dark.svg)](https://vercel.com/kriss1205#gh-dark-mode-only)
-&nbsp;&nbsp; -->
+---
 
 ### Languages and Tools I've been learning:
 
@@ -51,5 +40,8 @@
 
 ---
 
+### My Stats <img src="https://media2.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif?cid=ecf05e47v40kai09wiyujmzjk2ipqoz41kn2eax75q8cod4p&rid=giphy.gif&ct=s" width="30"> :
+
 <img align="left" alt="Kriss1205's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&hide_border=true&theme=midnight-purple" />
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
