@@ -7,7 +7,7 @@
  </div>
  <img src="https://komarev.com/ghpvc/?username=Kriss1205&style=flat-square&color=blue" alt=""/>
  <h1>
-  <p align="center"><a href="https://Kriss1205.github.io"><img width="80%" alt="Welcome, my name is Kriss!" src="./assets/gh-readme-header.png" /></a></p>
+  <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Welcome, my name is Kriss!" src="./assets/gh-readme-header.png" /></a></p>
 </h1>
  </div>
  <div align="center">
