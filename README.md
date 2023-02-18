@@ -6,9 +6,10 @@
  </a>
  </div>
  <img src="https://komarev.com/ghpvc/?username=Kriss1205&style=flat-square&color=blue" alt=""/>
- 
-  <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Welcome, my name is Kriss!" src="./assets/gh-readme-header.png" /></a></p>
-
+ <h1>
+  Welcome I'm "Kriss"
+  <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="30px"/>
+</h1>
  </div>
  <div align="center">
   <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="600" height="300" />
