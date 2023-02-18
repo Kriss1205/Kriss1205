@@ -42,8 +42,8 @@
 
 ### My Stats <img src="https://media2.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif?cid=ecf05e47v40kai09wiyujmzjk2ipqoz41kn2eax75q8cod4p&rid=giphy.gif&ct=s" width="30"> :
 
-<img align="left" alt="Kriss1205's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&hide_border=true&theme=midnight-purple" />
+<img align="center" style="max-width: 100%" alt="Kriss1205's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&hide_border=true&theme=midnight-purple" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="right" alt="Kriss1205's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple" />
+<img align="center" style="max-width: 100%" alt="Kriss1205's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriss1205&layout=compact&theme=midnight-purple" />
