@@ -21,7 +21,7 @@
 
 Born in Broward County, FL. Grew up all over South Florida mostly in Miami.
 
-Currently studying to become a Full-Stack Web Developer with 4Geeks Academy. Expecting to graduate by Feb. 24th.
+4Geeks Academy Alumni eager to learn more everyday as a programmer!
 
 Aside from coding, I love spening time with my wife and son with our small group of friends, working on my car, playing video games and building electronics like mechanical keyboards and retro hand held video game devices.
 
