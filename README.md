@@ -45,4 +45,3 @@ Aside from coding, I love spening time with my wife and son with our small group
 
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kriss1205&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss1205&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
