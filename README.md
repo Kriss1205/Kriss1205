@@ -43,5 +43,6 @@ Aside from coding, I love spening time with my wife and son with our small group
 
 ### My Stats <img src="https://media2.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif?cid=ecf05e47v40kai09wiyujmzjk2ipqoz41kn2eax75q8cod4p&rid=giphy.gif&ct=s" width="30"> :
 
-| <a href="https://github.com/Kriss1205/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Kriss1205/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss1205&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kriss1205&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss1205&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
