@@ -7,7 +7,7 @@
  </div>
  <img src="https://komarev.com/ghpvc/?username=Kriss1205&style=flat-square&color=blue" alt=""/>
  <h1>
-  Welcome I'm "Kriss"
+  Welcome my name is Christopher Morejon
   <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="30px"/>
 </h1>
  </div>
@@ -19,11 +19,11 @@
 
 ## About me:
 
-Born in Broward County, FL. Grew up all over South Florida mostly in Miami.
+Born in Broward County, FL. Raised all over South Florida mostly in Miami.
 
 4Geeks Academy Alumni eager to learn more everyday as a programmer!
 
-Aside from coding, I love spening time with my wife and son with our small group of friends, working on my car, playing video games and building electronics like mechanical keyboards and retro hand held video game devices.
+Aside from coding, I spend my free time with my wife and son and our small group of friends, working on car, playing video games and building electronics like mechanical keyboards and retro video game consoles.
 
 ---
 
