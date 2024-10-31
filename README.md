@@ -52,6 +52,7 @@ When I'm not coding, I enjoy spending time with my family, working on cars, play
 ---
 
 # My Stats:
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&locale=en&theme=tokyonight" alt="Kriss1205" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kriss1205&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Kriss1205" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kriss1205&show_icons=true&locale=en&theme=tokyonight" alt="Kriss1205" /></p>
+
+##
 
